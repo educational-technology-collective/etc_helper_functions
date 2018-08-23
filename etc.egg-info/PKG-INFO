@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: etc
+Version: 0.0.1
+Summary: A python package to help etc research group
+Home-page: https://github.com/educational-technology-collective/etc_helper_functions
+Author: Anant Mittal
+Author-email: anmittal@umich.edu
+License: UNKNOWN
+Description: # etc_helper_functions
+        A python package to help our research group. 
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
