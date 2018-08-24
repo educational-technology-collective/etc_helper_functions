@@ -13,6 +13,12 @@ pip install git+https://github.com/educational-technology-collective/etc_helper_
 python3 setup.py sdist bdist_wheel
 ```
 
+## Usage
+```
+from etc import read_html
+
+print(read_html("https://en.wikipedia.org/wik/HOK_(firm)"))
+```
 
 ## References
 
