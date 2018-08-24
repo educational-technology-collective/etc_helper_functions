@@ -6,7 +6,7 @@ def read_html(url):
         '''
         Make a get call to the proxy server
         '''
-        r = requests.get('http://localhost:5000/readHtml/?url=' + url)
+        r = requests.get('http://proxy.mentoracademy.org/readHtml/?url=' + url)
         return r.content
     else:
         return "Please use a valid url!"
